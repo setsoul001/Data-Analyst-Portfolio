@@ -12,7 +12,10 @@ Data cleaning is a critical step in the data analysis process. This project prov
 - Removing unnecessary rows/columns
 
 ## 📁 Files in This Repository
-Each file contains 3 sheets:
+Each file in this repository contains 3 sheets:
 - The raw data
 - The raw data and calculation
 - The clean data
+
+  - ## US President Dataset
+    
