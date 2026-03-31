@@ -8,9 +8,9 @@ A total of 1,186 people responded, 936 of whom have seen at least one film
 and form the basis of this analysis.
 
 ## Files
-- `Star Wars Survey.ipynb` — Jupyter notebook containing all analysis and visualizations
-- `Star_Wars_Survey_Analysis.docx` — Written interpretation of findings
-- `StarWars.csv` — Raw dataset from FiveThirtyEight
+- [Star Wars Survey.ipynb](https://github.com/setsoul001/Data-Analyst-Portfolio/blob/main/Star-Wars-Survey/Star%20Wars%20Survey.ipynb) — Jupyter notebook containing all analysis and visualizations
+- [Star_Wars_Survey_Analysis.docx](https://github.com/setsoul001/Data-Analyst-Portfolio/blob/main/Star-Wars-Survey/Star_Wars_Survey_Analysis.docx) — Written interpretation of findings
+- [StarWars.csv](https://github.com/setsoul001/Data-Analyst-Portfolio/blob/main/Star-Wars-Survey/StarWars.csv) — Raw dataset from FiveThirtyEight
 
 ## Tools Used
 - Python
