@@ -6,9 +6,11 @@ After cleaning and merging the data, 6,719 daily trading records formed the basi
 The aim was to identify which sectors and stocks performed strongest over the period, how volatility varied across the market, and what the valuation landscape looked like heading into late July.
 
 ## Files
-- [Stock Market Analysis.ipynb](https://github.com/setsoul001/Data-Analyst-Portfolio/blob/main/Star-Wars-Survey/Star%20Wars%20Survey.ipynb) — Jupyter notebook containing all analysis and visualizations
-- [Stock Market Analysis.docx](https://github.com/setsoul001/Data-Analyst-Portfolio/blob/main/Star-Wars-Survey/Star_Wars_Survey_Analysis.docx) — Written interpretation of findings
-- [Stock Market Analysis.csv](https://github.com/setsoul001/Data-Analyst-Portfolio/blob/main/Star-Wars-Survey/StarWars.csv) — Raw dataset from FiveThirtyEight
+- [Stock Market Analysis.ipynb](https://github.com/setsoul001/Data-Analyst-Portfolio/blob/main/Stock%20Market%20Analysis/Stock%20Market%20Analytics.ipynb) — Jupyter notebook containing all analysis and visualizations
+- [Stock Market Analysis.docx](https://github.com/setsoul001/Data-Analyst-Portfolio/blob/main/Stock%20Market%20Analysis/Stock%20Market%20Analysis.docx) — Written interpretation of findings
+- [June Stock Market dataset.csv](https://github.com/setsoul001/Data-Analyst-Portfolio/blob/main/Stock%20Market%20Analysis/stock_market_june2025.csv) — Raw dataset from Kaggle
+- [July Stock Market dataset.csv](https://github.com/setsoul001/Data-Analyst-Portfolio/blob/main/Stock%20Market%20Analysis/stock_data_july_2025.csv) — Raw dataset from Kaggle
+- [August Stock Market dataset.csv](https://github.com/setsoul001/Data-Analyst-Portfolio/blob/main/Stock%20Market%20Analysis/stock_data_aug_2025.csv) — Raw dataset from Kaggle
 
 ## Tools Used
 - Python
