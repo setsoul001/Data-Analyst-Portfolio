@@ -9,9 +9,9 @@ To address this, the project delivers an interactive Power BI dashboard that tra
 
 
 ## Files
-- [Star Wars Survey.ipynb](https://github.com/setsoul001/Data-Analyst-Portfolio/blob/main/Star-Wars-Survey/Star%20Wars%20Survey.ipynb) — Jupyter notebook containing all analysis and visualizations
-- [Star_Wars_Survey_Analysis.docx](https://github.com/setsoul001/Data-Analyst-Portfolio/blob/main/Star-Wars-Survey/Star_Wars_Survey_Analysis.docx) — Written interpretation of findings
-- [StarWars.csv](https://github.com/setsoul001/Data-Analyst-Portfolio/blob/main/Star-Wars-Survey/StarWars.csv) — Raw dataset from FiveThirtyEight
+- [FAO FDI.csv](https://github.com/setsoul001/Data-Analyst-Portfolio/blob/main/FDI%20Analysis/FAO%20FDI.csv) — Raw dataset from FAO
+- [countries.csv](https://github.com/setsoul001/Data-Analyst-Portfolio/blob/main/FDI%20Analysis/countries.csv) — Raw dataset from Google
+- [Countries by continents.csv](https://github.com/setsoul001/Data-Analyst-Portfolio/blob/main/FDI%20Analysis/Countries%20by%20continents.csv) — Raw dataset from Cousera
 
 ## Tools Used
 - Microsoft Power BI
