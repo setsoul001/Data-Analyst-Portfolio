@@ -12,6 +12,9 @@ To address this, the project delivers an interactive Power BI dashboard that tra
 - [FAO FDI.csv](https://github.com/setsoul001/Data-Analyst-Portfolio/blob/main/FDI%20Analysis/FAO%20FDI.csv) — Raw dataset from FAO
 - [countries.csv](https://github.com/setsoul001/Data-Analyst-Portfolio/blob/main/FDI%20Analysis/countries.csv) — Raw dataset from Google
 - [Countries by continents.csv](https://github.com/setsoul001/Data-Analyst-Portfolio/blob/main/FDI%20Analysis/Countries%20by%20continents.csv) — Raw dataset from Cousera
+- [FDI ANALYSIS.docx](https://github.com/setsoul001/Data-Analyst-Portfolio/blob/main/FDI%20Analysis/FDI%20ANALYSIS.docx) — Project documentation
+- [FDI Visuals.pdf](https://github.com/setsoul001/Data-Analyst-Portfolio/blob/main/FDI%20Analysis/FDI%20visuals.pdf) — Static Dashboard Visuals
+- [Live Dashboard on Powerbi](https://app.powerbi.com/groups/me/reports/7b67bcad-ec47-40df-be6d-decbe5079200/24998c90ceb850cb400a?experience=power-bi) — Interactive Power BI Dashboard
 
 ## Tools Used
 - Microsoft Power BI
