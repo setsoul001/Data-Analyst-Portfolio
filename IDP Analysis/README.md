@@ -9,7 +9,7 @@ recognized State border.
 
 
 ## Files
-- [IDP_Analysis.xlsx](https://github.com/setsoul001/Data-Analyst-Portfolio/blob/main/IDP%20Analysis/IDP_Analysis.xlsx) — Interactive Excel Dashboard
+- [IDP_Dashboard.xlsx](https://github.com/setsoul001/Data-Analyst-Portfolio/blob/main/IDP%20Analysis/IDP_Dashboard.xlsx) — Interactive Excel Dashboard
 - [IDP_Dashboard_Insights.pdf](https://github.com/setsoul001/Data-Analyst-Portfolio/blob/main/IDP%20Analysis/IDP_Dashboard_Insights.docx) — Insights from the analysis
 - [IDP_raw_data.xlsx](https://github.com/setsoul001/Data-Analyst-Portfolio/blob/main/IDP%20Analysis/IDP_raw_data.xlsx) — Raw Dataset
 
