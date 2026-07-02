@@ -9,10 +9,10 @@ The goal was to audit the data for structural problems first, design a schema th
 problems, and then move on to analysis.
 
 ## Files
-- [Undata.sql](https://github.com/setsoul001/Data-Analyst-Portfolio/blob/main/Stock%20Market%20Analysis/Stock%20Market%20Analytics.ipynb) — Jupyter notebook containing all analysis and visualizations
-- [UN Migrants SQL Project Report.pdf](https://github.com/setsoul001/Data-Analyst-Portfolio/blob/main/Stock%20Market%20Analysis/Stock%20Market%20Analysis.docx) — Written interpretation of findings
-- [International Migrants and Refugees.csv](https://github.com/setsoul001/Data-Analyst-Portfolio/blob/main/Stock%20Market%20Analysis/stock_market_june2025.csv) — Raw dataset from Kaggle
-- [Intl Migrants lookup.csv](https://github.com/setsoul001/Data-Analyst-Portfolio/blob/main/Stock%20Market%20Analysis/stock_data_july_2025.csv) — Raw dataset from Kaggle
+- [Undata.sql](https://github.com/setsoul001/Data-Analyst-Portfolio/blob/main/Intl%20Migrants%20and%20Refugee/Undata.sql) — SQL script containing queries for each analysis 
+- [UN Migrants SQL Project Report.pdf](https://github.com/setsoul001/Data-Analyst-Portfolio/blob/main/Intl%20Migrants%20and%20Refugee/UN%20Migrants%20SQL%20Project%20Report.pdf) — Written interpretation of findings
+- [International Migrants and Refugees.csv](https://github.com/setsoul001/Data-Analyst-Portfolio/blob/main/Intl%20Migrants%20and%20Refugee/SYB68_327_202511_International%20Migrants%20and%20Refugees.csv) — Raw dataset from UN data
+- [Intl Migrants lookup.csv](https://github.com/setsoul001/Data-Analyst-Portfolio/blob/main/Intl%20Migrants%20and%20Refugee/Intl_Migrants_lookup.csv) — Country reference table
 
 ## Tools Used
 - Power Query
